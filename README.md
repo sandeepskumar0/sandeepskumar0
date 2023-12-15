@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep S Kumar</h1>
 <h3 align="center">A passionate developer from Kerala ,India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepskumar0&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepskumar0" /> </p>
+<p align="left"> <img src="(https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)" alt="sandeepskumar0" /> </p>
 
 - 🔭 I’m currently working on **Sports Club Project**
 
