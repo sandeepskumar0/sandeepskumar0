@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sandeepskumar0798@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=sandeep](https://drive.google.com/drive/search?q=sandeep)
+- 📄 Know about my experiences https://drive.google.com/file/d/1xP-9xr-liLweoUhsSnIU7WizxUvWv_hN/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
